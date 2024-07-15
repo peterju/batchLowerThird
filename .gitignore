@@ -8,3 +8,6 @@ output/*
 
 # 參考網址
 *.url
+
+# 允許 ImageMagick7 目錄下的執行檔
+!ImageMagick7/*.exe
